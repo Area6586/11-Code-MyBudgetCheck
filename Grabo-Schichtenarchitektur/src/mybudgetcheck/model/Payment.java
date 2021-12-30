@@ -2,7 +2,7 @@ package mybudgetcheck.model;
 
 import java.io.Serializable;
 import java.time.LocalDate;
-//payment class
+
 public class Payment  implements Serializable {
 	private static final long serialVersionUID = 4136222750480274368L;
 	private int paymentId;
